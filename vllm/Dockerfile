@@ -1,1 +1,1 @@
-FROM vllm/vllm-openai:v0.5.0
+FROM vllm/vllm-openai:v0.5.4
